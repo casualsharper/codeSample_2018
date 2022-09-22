@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{5889977F-C769-4BD2-AC7A-E335592CA749}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "BL\BL.csproj", "{15DD8DBB-480E-464F-B892-CA74E528899E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebGUI2", "WebGUI2\WebGUI2.csproj", "{9CD01269-DF6D-4031-BD8E-E2B98EEB09BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5889977F-C769-4BD2-AC7A-E335592CA749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5889977F-C769-4BD2-AC7A-E335592CA749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5889977F-C769-4BD2-AC7A-E335592CA749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5889977F-C769-4BD2-AC7A-E335592CA749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15DD8DBB-480E-464F-B892-CA74E528899E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15DD8DBB-480E-464F-B892-CA74E528899E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15DD8DBB-480E-464F-B892-CA74E528899E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15DD8DBB-480E-464F-B892-CA74E528899E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CD01269-DF6D-4031-BD8E-E2B98EEB09BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD01269-DF6D-4031-BD8E-E2B98EEB09BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD01269-DF6D-4031-BD8E-E2B98EEB09BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD01269-DF6D-4031-BD8E-E2B98EEB09BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A71F3D5-A7FD-4332-9BB4-BACB3895296A}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://aleksandrsjasinskis.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Domain\\Domain.csproj
+		SccProjectName1 = Domain
+		SccLocalPath1 = Domain
+		SccProjectUniqueName2 = BL\\BL.csproj
+		SccProjectName2 = BL
+		SccLocalPath2 = BL
+		SccProjectUniqueName3 = WebGUI2\\WebGUI2.csproj
+		SccProjectName3 = WebGUI2
+		SccLocalPath3 = WebGUI2
+	EndGlobalSection
+EndGlobal
